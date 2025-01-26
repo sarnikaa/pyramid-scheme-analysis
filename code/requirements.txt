@@ -1,4 +1,5 @@
 streamlit
 network
 pandas
+networkx
 itertools
